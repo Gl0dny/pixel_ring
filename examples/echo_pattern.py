@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import time
 from pixel_ring import pixel_ring
 from gpiozero import LED
